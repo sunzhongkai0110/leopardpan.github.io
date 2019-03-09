@@ -81,5 +81,5 @@ https://blog.csdn.net/HeatDeath/article/details/79135462
 Git之Github使用（一）：Push代码到Github
 http://www.cnblogs.com/android-blogs/p/5816833.html
 
-转载请注明：[孙仲锴的博客](https://sunzhongkai0110.github.io) » [Git命令使用（GitHub篇）](https://sunzhongkai0110.github.io/2019/03/2019/03/Git命令使用-GitHub篇/)
+转载请注明：[孙仲锴的博客](https://sunzhongkai0110.github.io) » [Git命令使用(GitHub篇)](https://sunzhongkai0110.github.io/2019/03/2019/03/Git命令使用-GitHub篇/)
 
