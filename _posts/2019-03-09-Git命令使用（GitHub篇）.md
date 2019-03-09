@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Git命令使用（GitHub篇）
-date: 2019-03-08 
+date: 2019-03-09 
 tag: Git
 ---
 
@@ -68,19 +68,19 @@ https://blog.csdn.net/HeatDeath/article/details/79135462
 Git之Github使用（一）：Push代码到Github
 http://www.cnblogs.com/android-blogs/p/5816833.html
 
-转载请注明：[孙仲锴的博客](https://sunzhongkai0110.github.io) » [Git命令使用（GitHub篇）](https://sunzhongkai0110.github.io/2019/03/Git命令使用-GitHub篇/)  
+转载请注明：[孙仲锴的博客](https://sunzhongkai0110.github.io) » [Git命令使用（GitHub篇）](https://sunzhongkai.github.io/2019/03/Git命令使用（GitHub篇）/)  
 
 
-  [1]: https://graph.baidu.com/resource/101a74356bb2d62991c9a01552050478.jpg
-  [2]: https://graph.baidu.com/resource/10110749b3850753ae17401552050803.jpg
-  [3]: https://graph.baidu.com/resource/101c14f207b2ead6e8d3c01552050889.jpg
-  [4]: https://graph.baidu.com/resource/10101973ecf417f428a2301552051045.jpg
-  [5]: https://graph.baidu.com/resource/10138d04b854b28082f1801552052275.jpg
-  [6]: https://graph.baidu.com/resource/1012dfb07328448b7997e01552052368.jpg
-  [7]: https://graph.baidu.com/resource/10133b9761cb330a0cce501552052550.jpg
-  [8]: https://graph.baidu.com/resource/101864814a0a27012524b01552052617.jpg
-  [9]: https://graph.baidu.com/resource/1012a1f1295faea0a98c201552052808.jpg
-  [10]: https://graph.baidu.com/resource/101a0a3bb16cf88594e6c01552053251.jpg
-  [11]: https://graph.baidu.com/resource/10169e4aec6b12612ae3001552053353.jpg
-  [12]: https://graph.baidu.com/resource/101a0aa061822a11b235f01552053391.jpg
-  [13]: https://graph.baidu.com/resource/101169b73e9849975439401552053429.jpg
+  [1]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git1.png
+  [2]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git2.png
+  [3]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git3.png
+  [4]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git4.png
+  [5]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git5.png
+  [6]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git6.png
+  [7]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git7.png
+  [8]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git8.png
+  [9]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git9.png
+  [10]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git10.png
+  [11]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git11.png
+  [12]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git12.png
+  [13]: https://github.com/sunzhongkai0110/sunzhongkai0110.github.io/blob/master/images/posts/Git/Git13.png
