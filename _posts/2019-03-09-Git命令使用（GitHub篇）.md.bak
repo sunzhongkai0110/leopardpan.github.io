@@ -62,11 +62,9 @@ init后会出现.git隐藏文件夹—本地代码库
 解决方法：将GitHub上的代码pull下来，在本地修改，再将修改后的代码push到GitHub上
 ![此处输入图片的描述][13]
 
-### 参考资料：
-
+参考资料：
 Git 中 pull 和 clone 的区别
 https://blog.csdn.net/HeatDeath/article/details/79135462
-
 Git之Github使用（一）：Push代码到Github
 http://www.cnblogs.com/android-blogs/p/5816833.html
 
