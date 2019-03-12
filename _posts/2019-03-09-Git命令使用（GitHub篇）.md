@@ -73,6 +73,10 @@ init后会出现.git隐藏文件夹—本地代码库
 
 ![](/images/posts/Git/Git13.png)
 
+强制推送：git push -f origin master
+
+![](/images/posts/Git/Git14.png)
+
 ### 参考资料：
 
 Git 中 pull 和 clone 的区别
