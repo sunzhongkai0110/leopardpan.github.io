@@ -9,8 +9,6 @@ title: 关于我
 <p>
 了解一些 前端 基本概念。
 
-<p>
-
 
 {% include comments.html %}
 
